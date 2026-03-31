@@ -16,9 +16,9 @@ title('BulSU Pedestrian Network Gate 1 to Federizo Hall');
 highlight(p, path, 'EdgeColor', 'r', 'LineWidth', 4);
 
 % Result (Highlighting path from Gate 1 to Federizo Hall)
-fprintf('Shortest Path from Gate 2 to FH: %.2f meters\n', d);
+fprintf('Shortest Path from Gate 1 to FH: %.2f meters\n', d);
 fprintf('Path: %s\n', strjoin(path, ' -> '));
 
-Shortest Path from Gate 2 to FH: 301.00 meters
+Shortest Path from Gate 1 to FH: 301.00 meters
 Path: G1 -> AC -> CICT -> CoEd -> FH
 >> 
