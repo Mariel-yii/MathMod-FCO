@@ -3,3 +3,5 @@ The image below shows the shortest path from Gate 1 to Federizo hall, where G1 -
 
 The image below shows the shortest path from Gate 2 to Federizo Hall, where G2 - COE - FH shortest path is 105 meters.
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/28c8489c-f4c2-4c4b-b11a-ad164bc7fd1a" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c95c2d19-acdf-4fa8-9576-c7523751e957" />
