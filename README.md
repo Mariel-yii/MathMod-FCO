@@ -5,3 +5,5 @@ The image below shows the shortest path from Gate 2 to Federizo Hall, where G2 -
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/28c8489c-f4c2-4c4b-b11a-ad164bc7fd1a" />
 
 
+<img width="1585" height="776" alt="image" src="https://github.com/user-attachments/assets/06679f61-f03e-4904-96b8-09517c4d4833" />
+
