@@ -10,10 +10,19 @@ python -m pip install -r requirements.txt
 ```bash
 python main.py
 ```
-# Output
+### Output
+# plots
 | File | Description |
 | :--- | :--- |
-| `.sage` | SageMath code for BulSu network.|
-|`pedestrian network`| Campus nodes and Edges.|
-|`Shortest_distance_to_FH`| Source node to FH.|
-|`Shortest_path_Congestion`| Consedering the capacity of pathway.|
+|`BulSu_Network.png` | BulSu network.|
+|`shortestpath.png`| Campus nodes and Edges.|
+|`Shortest_Path_Congestion.jpg`| Consedring Congestion.|
+|`Weighting_Functions`| Consedering the capacity of pathway.|
+|`shortestpath_result.png`| result.|
+
+#table
+| File | Description |
+| :--- | :--- |
+|`congestion_path.csv`| BulSu network.|
+|`pathway_data.csv`| Data of BulSu network.|
+|`shortest_path.csv`| Shortest Path.|
