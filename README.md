@@ -13,3 +13,10 @@ python main.py
 # Output
 | File | Description |
 | :--- | :--- |
+| `.sage` | SageMath code for BulSu network.|
+
+|`pedestrian network`| Campus nodes and Edges.|
+
+|`Shortest_distance_to_FH`| Source node to FH.|
+
+|`Shortest_path_Congestion`| Consedering the capacity of pathway.|
