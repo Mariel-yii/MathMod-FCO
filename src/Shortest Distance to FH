@@ -1,0 +1,5 @@
+bar([301 105 94 187])
+xticklabels({'G1','G2','G3','G4'})
+ylabel('Distance (m)')
+xlabel(‘Gates’)
+title('Shortest Distance to FH')
