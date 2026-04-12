@@ -1,0 +1,5 @@
+Gate,Shortest Path,Total Distance (m)
+G1,G1 -> AC -> CICT -> CoEd -> FH,301
+G2,G2 -> COE -> FH,105
+G3,G3 -> VH -> FH,94
+G4,G4 -> CSSP -> FH,187
