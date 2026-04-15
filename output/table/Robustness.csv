@@ -1,0 +1,5 @@
+Removal,Origin,Destination,Resulting Path,Distance (m),Status
+AC,Gate 1,FH,None,∞,Disconnected
+VH,Gate 3,FH,None,∞,Disconnected
+FH,Gate 1,Gate 2,None,∞,Disconnected
+COE,Gate 2,FH,None,∞,Disconnected
