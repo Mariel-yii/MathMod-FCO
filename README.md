@@ -22,6 +22,6 @@ python main.py
 # table
 | File | Description |
 | :--- | :--- |
-|`congestion_path.csv`| BulSu network.|
+|`node_removal.csv`| removal of network.|
 |`pathway_data.csv`| Data of BulSu network.|
 |`shortest_path.csv`| Shortest Path.|
