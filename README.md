@@ -14,11 +14,10 @@ python main.py
 # plots
 | File | Description |
 | :--- | :--- |
-|`BulSu_Network.png` | BulSu network.|
-|`shortestpath.png`| Campus nodes and Edges.|
-|`Shortest_Path_Congestion.jpg`| Consedring Congestion.|
-|`Weighting_Functions`| Consedering the capacity of pathway.|
-|`shortestpath_result.png`| result.|
+|`BulSu_Network_Graph.png` | BulSu network.|
+|`Shortest_Paths.png`| Campus nodes and Edges.|
+|`Articulation_Points.jpg`| Critical Buildings.|
+|`Max_flow_min_cut.png`| amount of student that can pass the network and smallest bottleneck.|
 
 # table
 | File | Description |
