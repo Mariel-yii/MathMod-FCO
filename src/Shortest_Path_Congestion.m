@@ -1,7 +1,0 @@
-bar([301 105 94 187])
-xticklabels({'G1','G2','G3','G4'})
-ylabel('Distance (m)')
-title('Shortest Distance to FH')
->> bar([8.15 2.29 3.97 11.94])
-xticklabels({'G1','G2','G3','G4'})
-ylabel('Total Cost(w)')
