@@ -1,0 +1,11 @@
+### Table 1: Node Removal
+
+| Node Removed | Severity | Disconnected |
+| :--- | :--- | :--- |
+| **Federizo Hall** | Critical | G1, G2, G3, G4 |
+| **CoEd** | High | G1, AC, CICT |
+| **CICT** | Moderate | G1 and AC |
+| **AC** | Moderate | Gate 1 |
+| **COE** | Low | Gate 2 |
+| **VH** | Low | Gate 3 |
+| **CSSP** | Low | Gate 4 |

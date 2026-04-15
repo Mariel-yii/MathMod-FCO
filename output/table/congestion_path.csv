@@ -1,5 +1,0 @@
-Gate,Path,Total Cost (w)
-G1,G1 -> AC -> CICT -> CoEd -> FH,8.15
-G2,G2 -> COE -> FH,2.29
-G3,G3 -> VH -> FH,3.97
-G4,G4 -> CSSP -> FH,11.94
