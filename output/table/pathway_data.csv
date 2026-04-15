@@ -1,11 +1,11 @@
-Pathway,Distance (m),Flow Capacity (Students/min)
-G1 – AC,58,55
-AC – CICT,80,40
-CICT – CoEd,92,30
-CoEd – FH,71,35
-G2 – COE,35,65
-COE – FH,70,40
-G3 – VH,73,25
-VH – FH,21,20
-G4 – CSSP,169,15
-CSSP – FH,18,27
+Pathway Segment,Distance (m),Capacity (s/m),Weight (d/c)
+G1 - AC,58,55,1.05
+AC - CICT,80,40,2.00
+CICT - CoEd,92,30,3.07
+CoEd - FH,71,35,2.03
+G2 - COE,35,65,0.54
+COE - FH,70,40,1.75
+G3 - VH,73,25,2.92
+VH - FH,21,20,1.05
+G4 - CSSP,169,15,11.27
+CSSP - FH,18,27,0.67
