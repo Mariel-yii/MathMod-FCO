@@ -4,11 +4,12 @@
 This study applies graph theory to model and analyze the pedestrian within Bulacan State University- Malolos Campus. The graphs represented as campus pathways. To analyze the campus shortest path and bottleneck was calculated using computational tool.
 ### 1. Install Dependencies
 ```bash
-python -m pip install -r requirements.txt
+Download and install SageMath:
+https://www.sagemath.org/
 ```
 ### 2. Run
 ```bash
-python main.py
+sage main.py
 ```
 ### Output
 # plots
